@@ -5,11 +5,11 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE;
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    siteTitle: `Minimal Blog`,
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
+    siteTitle: `fru1tworld tech blog`,
+    siteTitleAlt: `fru1tworld blog title`,
+    siteHeadline: `fru1tworld Head Line Title`,
+    siteUrl: `https://fru1tworld.github.io/`,
+    siteDescription: `기술 블로그`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
     author: `@lekoarts_de`,
@@ -32,12 +32,12 @@ const config: GatsbyConfig = {
         ],
         externalLinks: [
           {
-            name: `Bluesky`,
-            url: `https://bsky.app/profile/lekoarts.de`,
+            name: ``,
+            url: ``,
           },
           {
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            name: ``,
+            url: ``,
           },
         ],
       },
